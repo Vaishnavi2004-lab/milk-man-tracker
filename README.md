@@ -14,4 +14,4 @@ A web application to manage milk delivery records and customer tracking.
 - JavaScript
 
 ## Live Demo
-(link here)
+https://vaishnavi2004-lab.github.io/milk-man-tracker/
